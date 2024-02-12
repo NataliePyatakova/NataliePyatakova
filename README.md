@@ -2,10 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий Аналитик данных из России 🇷🇺</h3>
 
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <div align="center">
 
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/natt_ish)</a>
