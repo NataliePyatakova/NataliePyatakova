@@ -8,6 +8,22 @@
 
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif?cid=790b761191fe30revvawd55v8mbi5whmqyokd44tb9wvt5us&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='400'/>
+
+</div>
+
+<div>
+  
+### Обо мне 🦕
+- Аналитик данных с экономическим образованием (иногда модель 💁🏼‍♀️)
+- Люблю собак 🐕
+- Обожаю природу и йогу 🤸🏼‍♀️🏔
+- Моя любимая музыкальная группа - The Hatters 🎻🪗
+- Фотографирую для души 📸
+- Фанат кофе и какао ☕️
+
+</div>
 
 ### Мои проекты 📈
 
@@ -18,3 +34,24 @@
 |Проект 3. Проект по анализу данных о работе приложения для знакомств (__[github](https://github.com/NataliePyatakova/Project_3)__)|Выбор и расчет метрик. Формирование гипотез, проверка результатов A/B тестирования. Статистическое сравнение метрик в двух группах|pandas, seaborn, scipy, numpy, matplotlib, statsmodels|
 |Проект 4. Проект по построению дашборда с помощью SQL (__[github](https://github.com/NataliePyatakova/Project_4)__)|Проведение анализа данных с помощью SQL-запросов, построение дашборда в Redash|SQL, ClickHouse, Redash|
 |Проект 5. Проект по проведению RFM-анализа (__[github](https://github.com/NataliePyatakova/Project_5)__)|Обработка данных, построение RFM-кластеров|pandas, seaborn, matplotlib, numpy|
+
+
+<div>
+
+### Языки и инструменты ⚒
+
+  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+
+</div>
